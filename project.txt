@@ -2,5 +2,5 @@ GitHub Pull Request Demo
 Version 1.0
 
 This change was added via a Pull Request.
-This is another update.
-This change was added via a Code Review.
+This update improves the Pull Request practice example.
+This change was added following the code review process.
